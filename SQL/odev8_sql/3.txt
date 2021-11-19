@@ -1,0 +1,26 @@
+UPDATE employee
+SET name = 'Efe Safak',
+	email = 'efe@safak.com'
+WHERE ID = 1;
+
+UPDATE employee
+SET name = 'Elif Uzyapan',
+	email = 'elif@uzyapan.com'
+WHERE ID = 2;
+
+UPDATE employee
+SET name = 'Haskur Kursuncu',
+	email = 'hasan@kursuncu.com',
+	birthday = '2000-12-01'
+WHERE ID = 3;
+
+UPDATE employee
+SET name = 'Oyku Safak',
+	email = 'oyku@safak.com',
+	birthday = '1995-02-28'
+WHERE ID = 4;
+
+UPDATE employee
+SET name = 'Birol Safak'
+WHERE ID = 5;
+

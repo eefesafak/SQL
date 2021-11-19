@@ -1,0 +1,5 @@
+DELETE FROM employee
+WHERE name = 'Jarrod';
+
+DELETE FROM employee
+WHERE id BETWEEN 4 AND 9;
